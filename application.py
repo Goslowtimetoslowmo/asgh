@@ -1,3 +1,4 @@
+# Ver. 나이스 API 웹 크롤링해서 자동 불러올때(아직 추가 개발 필요)
 from flask import Flask, request, jsonify
 import requests
 import sys
