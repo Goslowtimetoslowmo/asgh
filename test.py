@@ -2,7 +2,7 @@ from flask import Flask, request
 
 app = Flask(__name__) # Flask app 생성
 
-#이곳에서 제대로 설명되어 있음 https://dschloe.github.io/python/kakao_chatbot/chatbot_calculator/
+# 자세한 설명: https://dschloe.github.io/python/kakao_chatbot/chatbot_calculator/
 
 @app.route('/') # main page route
 def test2(): # main page function
